@@ -1,6 +1,6 @@
-# TimeMail - 时光邮局
+# 拾光
 
-> 原諒我這一生 不羁放纵爱自由
+> 给未来写封信 愿你未来不负所期
 
-[联系](https://blog.xsot.cn)
+[联系](mailto:contact@xcsoft.top)
 [开始](#Welcome)
