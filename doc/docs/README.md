@@ -5,3 +5,5 @@
 [协议](pravicy.md)
 
 [关于](about.md)
+
+[更新记录](update.md)
