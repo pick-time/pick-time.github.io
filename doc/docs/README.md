@@ -1,10 +1,16 @@
 ## Welcome
 
+- 拾光
 
-## 开始使用
+   - [关于我们](about.md)
 
-[协议](pravicy.md)
+- 条款
 
-[关于](about.md)
+  - [服务条款](pravicy.md)
+  
+  - [公开信授权协议](public.md)
 
-[更新记录](update.md)
+- 其他说明
+
+  - [其他](other.md)
+  - [更新记录](update.md)
