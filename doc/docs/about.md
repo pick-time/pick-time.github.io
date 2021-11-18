@@ -35,13 +35,9 @@
 
 ### H5 (WEB)
 
-- BootStrap
-- Jquery
-- Jquery-cookie
-- Jquery-qrcode
-- Layer
-- Laydate
-- Summernote
+- React
+- Ant Design
+- BraftEditor
 
 ### App (> 1.1.4)
 
