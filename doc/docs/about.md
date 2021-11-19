@@ -56,4 +56,4 @@
 ## 联系方式
 
 - 微信公众号 TimeMail时光邮局
-- contact#xcsoft.top 或 admin#156dau.cn
+- contact#xcsoft.top
