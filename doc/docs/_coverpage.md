@@ -2,5 +2,5 @@
 
 > 给未来写封信 愿你未来不负所期
 
-[联系](mailto:contact@xcsoft.top)
+[联系](https://www.timeletters.cn/workorder)
 [开始](#Welcome)

@@ -8,7 +8,8 @@
   
   - [公开信授权协议](public.md)
 
-- 其他说明
+- 其他
 
-  - [其他](other.md)
+  - [找到我们](find_us.md)
+  - [版权信息](copyright.md)
   - [更新记录](update.md)
