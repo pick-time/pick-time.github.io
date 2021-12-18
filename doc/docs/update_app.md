@@ -1,6 +1,6 @@
 # App更新记录{docsify-ignore}
 
-> latestVersion: 1.1.6(127)  <内测中>
+> latestVersion: 1.1.6(128)  <内测中>
 
 ## 更新记录
 
