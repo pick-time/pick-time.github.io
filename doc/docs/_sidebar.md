@@ -3,7 +3,7 @@
    - [目录](README.md)
    - [关于我们](about.md)
 
-- 条款
+- 协议
 
   - [服务条款](pravicy.md)
   - [公开信授权协议](public.md)
