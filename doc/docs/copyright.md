@@ -20,4 +20,4 @@
 
 ## 文档
 
-- doctify (MIT)
+- Doctify (MIT)
