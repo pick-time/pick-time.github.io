@@ -2,5 +2,5 @@
 
 > 给未来写封信 愿你未来不负所期
 
-[联系](https://www.timeletters.cn/workorder)
+[联系](https://www.timeletters.cn/support)
 [开始](#拾光)
