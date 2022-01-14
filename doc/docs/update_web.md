@@ -1,8 +1,12 @@
 # Web更新记录{docsify-ignore}
 
-> latestVersion: 2.0.1
+> latestVersion: 2.0.2
 
 ## 更新记录
+
+### 2.0.2
+> 2022-01-14
+  - 修复三处英语翻译错误
 
 ### 2.0.1
 > 2021-12-17
