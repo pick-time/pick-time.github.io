@@ -8,7 +8,7 @@ At the same time, I hope that you can support our project.
 
 # technology stack
 
-we use workerman to develop backend api, mysql to store user data And Redis as data cache.
+we use workerman to develop backend api, mysql to store user data and Redis as data cache.
 
 Our Web is based on Reack Framework, App is based on Flutter Framework.
 
