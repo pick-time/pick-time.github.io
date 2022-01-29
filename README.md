@@ -8,7 +8,7 @@ At the same time, I hope that you can support our project.
 
 # technology stack
 
-we use workerman to develop backend api, mysql to store user data and Redis as data cache.
+We use workerman to develop backend api, mysql to store user data and Redis as data cache.
 
 Our Web is based on Reack Framework, App is based on Flutter Framework.
 
@@ -22,12 +22,14 @@ Most suggestions and product designs come from Changyu Mi.
 
 # contact 
 
-you can contact us with xcsoft#timeletters.cn (replace # with @)
+You can contact us with xcsoft#timeletters.cn (replace # with @)
 
 # About this repo
 
  - This repo is the about page of Timeletter
 
- - you can visit it on https://service.timeletters.cn
+ - You can visit it on https://service.timeletters.cn
+
+ - Our website is https://www.timeletters.cn
 
  - The document is based on docsify
