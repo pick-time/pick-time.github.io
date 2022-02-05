@@ -13,8 +13,9 @@
 
 - 更新记录
  
-  - [App更新记录](update_app.md)
-  - [Web更新记录](update_web.md)
+  - [App更新日志](update_app.md)
+  - [Web更新日志](update_web.md)
+  - [其他更新日志](update.md)
 
 - 其他
 
