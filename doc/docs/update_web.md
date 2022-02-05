@@ -1,8 +1,12 @@
 # Web更新记录{docsify-ignore}
 
-> latestVersion: 2.0.2
+> latestVersion: 2.0.3
 
 ## 更新记录
+
+### 2.0.3
+> 2022-02-05
+  - 修复用户界面信息错误
 
 ### 2.0.2
 > 2022-01-14
