@@ -16,6 +16,7 @@
 
 - 其他
 
-  - [常见问题](Q&A.md)
+  - [支持我们](sponsor.md)
+  - [常见问题](qa.md)
   - [找到我们](find_us.md)
   - [版权信息](copyright.md)
