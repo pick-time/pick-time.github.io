@@ -3,6 +3,6 @@
 ## 我们在这些地方
 
 - Web: [https://www.timeletters.cn](https://www.timeletters.cn)
-- ~~Ios: [AppStore](https://apps.apple.com/cn/app/id1552523043)~~
-- Android: [apk](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-dd8c776e-5819-404d-9e85-7faaaf426be8/97935e72-9fa3-41c8-8244-bd8bb51f2065.apk)
+- ~~Ios: [AppStore](https://api.timeletters.cn/jump/ios)~~
+- Android: [apk](https://api.timeletters.cn/jump/android)
 - 微信小程序: Timeletters
