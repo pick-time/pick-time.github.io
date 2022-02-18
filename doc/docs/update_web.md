@@ -1,9 +1,5 @@
 # Web更新记录{docsify-ignore}
 
-> latestVersion: 2.0.3
-
-## 更新记录
-
 ### 2.0.4
 > 2022-02-18
   - 添加公开信举报
