@@ -6,7 +6,7 @@
 - 协议
 
   - [服务条款](law.md)
-  - [隐私政策](pravicy.md)
+  - [隐私政策](privacy.md)
   - [公开信授权协议](public.md)
 
 - 更新记录
@@ -17,7 +17,7 @@
 
 - 其他
 
-  - [支持我们](sponsor.md)
   - [常见问题](qa.md)
+  - [支持我们](sponsor.md)
   - [找到我们](find_us.md)
   - [版权信息](copyright.md)
