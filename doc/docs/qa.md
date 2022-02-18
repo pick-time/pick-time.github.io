@@ -18,7 +18,7 @@
 > 请将 timeletters.cn 与 mail.timeletters.cn 加入邮箱白名单中,
 
 - Q6. 为什么无法修改头像?
-> 我们的头像采用 [cravatar.cn][1] 提供, 头像从您的邮箱直接获取,
+> 我们的头像由 [cravatar.cn][1] 提供, 头像从您的邮箱直接获取,
 > 
 > 您可以在 [cravatar.cn][1] 获取 [gravatar.com][2] 进行修改
 
