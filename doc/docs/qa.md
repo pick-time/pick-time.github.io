@@ -15,11 +15,13 @@
 > 理论上, 您或TA需要在10小时内点击邮件内的链接完成验证, 实际上我们一般会在每周日的3点清理大于10小时的未验证邮件.
 
 - Q5. 为什么我没有收到验证邮件或信件?
-> 请将 no-reply@timeletters.cn 与 no-reply@mail.timeletters.cn 加入您的邮箱白名单.
->
-> 您也可以直接将 timeletters.cn 与 mail.timeletters.cn 加入白名单, 且更推荐该做法.
+> 请将 timeletters.cn 与 mail.timeletters.cn 加入邮箱白名单中,
 
 - Q6. 为什么无法修改头像?
-> 我们的头像采用 cravatar.cn 提供, 头像从您的邮箱直接获取,
+> 我们的头像采用 [cravatar.cn][1] 提供, 头像从您的邮箱直接获取,
 > 
-> 您可以在 cravatar.cn 获取 gravatar.com 进行修改
+> 您可以在 [cravatar.cn][1] 获取 [gravatar.com][2] 进行修改
+
+
+[1]: http://cravatar.cn
+[2]: https://cn.gravatar.com
