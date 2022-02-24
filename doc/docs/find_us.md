@@ -4,7 +4,7 @@
 
 - Web: [https://www.timeletters.cn](https://www.timeletters.cn)
 
-- ~~Ios: [AppStore](https://api.timeletters.cn/jump/qa)~~
+- Ios: [AppStore](https://api.timeletters.cn/jump/qa)
 
 - Android: 
     - [APK File](https://api.timeletters.cn/jump/android)
