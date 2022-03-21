@@ -4,11 +4,17 @@
 
 - Web: [https://www.timeletters.cn](https://www.timeletters.cn)
 
-- Ios: [AppStore](https://api.timeletters.cn/jump/ios)
+- Ios
+  - [AppStore](https://api.timeletters.cn/jump/ios)
 
-- Android: 
-    - [APK File](https://api.timeletters.cn/jump/android)
-    - [HUAWEI App Gallery](http://appgallery.huawei.com/app/C105501773) (unavailable in china)
-    - [Google Play](https://play.google.com/store/apps/details?id=cn.timemail.xsot)
+- Android
+  - [APK File](https://api.timeletters.cn/jump/android)
+  - [HUAWEI App Gallery](http://appgallery.huawei.com/app/C105501773) (unavailable in china)
+  - [Google Play](https://play.google.com/store/apps/details?id=cn.timemail.xsot) 
 
 - 微信小程序: Timeletters (deprecated)
+
+## 其他
+
+- APK MD5: 
+  - 1.1.8(135): `dfce803a56983f51e385735cc623ca21`
