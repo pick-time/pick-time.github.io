@@ -16,7 +16,7 @@
 - 为什么无法修改头像?
 > 我们的头像由 [cravatar.cn][1] 提供, 头像从您的邮箱直接获取,
 > 
-> 您可以在 [cravatar.cn][1] 获取 [gravatar.com][2] 进行修改
+> 您可以在 [cravatar.cn][1] 或 [gravatar.com][2] 进行修改
 
 <!--
 - 为什么Appstore找不到我们的APP了?
