@@ -1,17 +1,15 @@
 # Welcome
 
-This is the about page of timeletters
+This is the doc of Timeletters
 
-give issues or discuss anything [here][1]
+Give issues or discuss anything [here][1]
 
-# About this repo
-
- - This repo is the about page of Timeletter
+# About
 
  - You can visit it on https://service.timeletters.cn
 
  - Our website is https://www.timeletters.cn
 
- - The document is based on docsify
+ - This document is based on docsify
 
 [1]: https://github.com/timeletters/discuss/discussions
