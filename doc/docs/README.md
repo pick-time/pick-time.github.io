@@ -15,6 +15,7 @@
   - [隐私政策](privacy.md)
   - [公开信授权协议](public.md)
   - [账户删除协议](delete.md)
+  - [第三方SDK](third_sdk.md)
 
 - 更新记录
  
