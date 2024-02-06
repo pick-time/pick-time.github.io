@@ -14,7 +14,7 @@
  - 使用场景: 用户验证邮件, 找回密码等操作
  - 合作方主体: 阿里云
  - 合作方官网链接: https://aliyun.com/
- - 服务协议: https://help.aliyun.com/document_detail/39370.html?spm=a2c4g.39369.0.0.45fb7f46p1OkJk
+ - 服务协议: https://help.aliyun.com/document_detail/39370.html
 
 #### 阿里云短信服务 SDK
 
