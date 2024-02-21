@@ -18,9 +18,3 @@
 
 - 微信小程序: 
   - Timeletters (deprecated)
-
-## 其他
-
-- APK MD5: 
-  - 1.1.8(135): `dfce803a56983f51e385735cc623ca21`
-  - 1.1.9(139): `8bed17f88c938dc08351832fb328521a`
