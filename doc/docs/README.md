@@ -23,7 +23,7 @@
   - [Web更新日志](update_web.md)
 
 - 其他
-
+  - [注意事项](notice.md)
   - [常见问题](fqa.md)
   - [支持我们](sponsor.md)
   - [找到我们](find_us.md)
